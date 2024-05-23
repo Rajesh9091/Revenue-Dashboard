@@ -1,4 +1,4 @@
-# Simple (Web App) Dashboard Shiny
+# Revenue Dashboard Shiny
 Code and Plots used in the related article
 
 Screenshot #1:
